@@ -228,6 +228,7 @@ Footer
 }
 /* footer nav */
 .ul-footer-1{
+    margin-bottom: 2.3rem;
     list-style-type: none;
     color: var(--grey-1);
 }
